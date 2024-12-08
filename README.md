@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Syed Muhammad Shan e Ali  GIAIAC  Senior Student 001166888
 
-## Getting Started
 
-First, run the development server:
+                            Next.js 14 E-Commerce Website
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Project Purpose
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is a fully functional eCommerce website built using Next.js 14, TypeScript, and Tailwind CSS. Initially, the website design was created in Figma, and the project was later converted to a working application using VS Code, Next.js, and TypeScript. The website is intended to offer a responsive and user-friendly shopping experience with a focus on modern UI/UX practices.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Features:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Responsive design built using Tailwind CSS for a mobile-first experience.
+2. Product listing with detailed product descriptions, images, and pricing.
+3. Add to Cart functionality to allow users to manage their shopping cart.
+4. FAQ section to address common customer inquiries.
+5. Single product details page to showcase in-depth product information.
+6. Contact page to allow users to reach out for support or inquiries.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+Key Components Implemented:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Home Page: Displays featured products and navigates to other pages such as product listing, about, and contact.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. About Page: Provides details about the business or platform.
 
-## Deploy on Vercel
+3. Product Page: A comprehensive page showcasing all products available for sale.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. Single Product Page: Displays detailed information for an individual product, including images and     descriptions.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+5. Add to Cart Page: Displays the shopping cart, allowing users to modify quantities and proceed to checkout.
+
+6. FAQs Page: A list of frequently asked questions with answers to help users.
+
+7. Contact Page: A contact form for users to get in touch with customer support.
+
+8. Figma Design to Code: The project was initially designed in Figma, and later transitioned into code using VS Code, Next.js, and Tailwind CSS.
+
+9. Responsive Design: The UI adapts to different screen sizes, providing a seamless experience across devices.
+
+
+
+Steps to Run the Project Locally:
+
+Clone the repository:               git clone <repository-url>
+
+Navigate to the project folder:     cd <project-folder>
+
+Install the dependencies:
+
+Make sure you have Node.js installed. Then run:
+
+                                    npm install
+
+Run the development server:
+                                    npm run dev
+
+Open the project in your browser:
+
+                                    Visit http://localhost:3000 to view the site.
+
+Technologies Used:
+
+1. Next.js 14: Framework for building React applications with server-side rendering.
+2. TypeScript: Ensures type safety and a better developer experience.
+3. Tailwind CSS: A utility-first CSS framework for quick and responsive UI design.
+4. Figma: Initially used to design the website's UI/UX before transitioning to code.
+5. VS Code: The development environment used to implement the design in code.
