@@ -50,6 +50,7 @@ const Page = () => {
               </div>
 
           </div>
+          
 
           <div className='w-[300px] h-[244px] flex items-center justify-center hover:border-2'>
               <div className='w-[213px] h-[148px] text-[#007580] space-y-2'>
